@@ -160,9 +160,3 @@ This implementation demonstrates proficiency in:
 
 **Shashank Gupta**  
 Task-03: Support Vector Machine Image Classifier
-
----
-
-## 📄 License
-
-This project is part of the Prodigy InfoTech Machine Learning Internship program and is provided for educational purposes.
