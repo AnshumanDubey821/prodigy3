@@ -158,5 +158,5 @@ This implementation demonstrates proficiency in:
 
 ## 👨‍💻 Author
 
-**Shashank Gupta**  
+**Anshuman Dubey**  
 Task-03: Support Vector Machine Image Classifier
